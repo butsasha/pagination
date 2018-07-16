@@ -2,9 +2,8 @@
 /**
  * @author: But Oleksandr
  * Date: 15.06.2018
+ * www.smartfi.systems
  */
-
-namespace Core\Helper;
 
 class Pagination {
 
